@@ -53,7 +53,22 @@ h4 {
   font-weight: 3;
 }
 .time {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  width: 200px;
   color: bisque;
   margin: 5px auto;
   letter-spacing: 5px;
+}
+.time h6 {
+  margin: 0 auto;
+  color: brown;
+  background-color: bisque;
+  padding: 0.5em 0;
+  width: 60%;
+  border-radius: 30px;
+}
+.time p {
+  padding: 0.4em 0;
 }
