@@ -72,3 +72,13 @@ h4 {
 .time p {
   padding: 0.4em 0;
 }
+
+footer {
+  color: bisque;
+  background-color: rgb(136, 30, 30);
+  text-align: center;
+  margin: 40vh 0 auto;
+  font-weight: 10;
+  font-size: 0.7em;
+  padding: 0.4em;
+}
